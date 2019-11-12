@@ -1,0 +1,25 @@
+.box-last-comment{
+    display: flex;
+    flex-flow: column;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    border: solid;
+    background-color: white;
+  }
+  
+  .box-last-comment a{
+    margin: 2%;
+    font-size: calc(3px + 2vmin);
+  }
+  
+  .box-last-comment button{
+    flex: 0 0 15%;
+    width: 180px;
+    height: 50px;
+    border-color: black;
+    margin: 2%;
+    font-size: calc(5px + 2vmin);
+    font-style: italic;
+    background-color: lightsteelblue;
+  }
